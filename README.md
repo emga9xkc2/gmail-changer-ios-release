@@ -33,7 +33,9 @@
   <summary>CÀI ĐẶT TOUCHSPRITE</summary>
 
 1. Mở cydia, chọn Sources, chọn Edit, chọn Add, xóa hết url đi nhập dòng này vào rồi bấm Add Source: http://apt.touchsprite.com
-2. Hoặc làm theo video bên dưới <video src='setup/images/caidatts.mp4' width=180/>
+2. Hoặc làm theo video bên dưới
+   [![asciicast]](https://www.youtube.com/watch?v=XdP5gIpjCjw)
+
 </details>
 
 <details>
