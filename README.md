@@ -24,8 +24,8 @@
    <img src="setup/images/1.png"/>
 2. Ở vps download và cài đặt web mail ở đây: https://github.com/emga9xkc2/web-mail-release/archive/refs/heads/main.zip
 3. Download xong giải nén và chạy file setup.bat trong thư mục setup
-4. Quay lại 1 bước chạy file Main.lnk lên là ok
-
+4. Quay lại tìm và chạy file Main (Main.lnk) lên là ok
+5. Sau khi mở lên nếu thấy thông báo Thay port trong file data/hconfig.ini thì mở file hconfig.ini lên, sửa dòng port = -1 thành port = xxx, rồi lưu lại. Ví dụ port = 789
 </details>
 
 <details>
