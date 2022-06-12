@@ -18,7 +18,8 @@
 
 [x] CÀI ĐẶT TOOL<br>
 
-1. Ở trên iphone. Download và chạy file
+1. Ở trên iphone. Download file: https://github.com/emga9xkc2/gmail-changer-ios-release/raw/main/gmail_changer.tsp
+2. Sau đó copy file vừa tải về vào thư mục: /private/var/mobile/Media/TouchSprite/lua rồi chạy file trên
 
 <b>Thông tin phiên bản</b>
 
