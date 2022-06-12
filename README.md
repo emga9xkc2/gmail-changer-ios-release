@@ -16,6 +16,10 @@
 3. Download xong giải nén và chạy file setup.bat trong thư mục setup
 4. Quay lại 1 bước chạy file Main.lnk lên là ok
 
+[x] CÀI ĐẶT TOOL<br>
+
+1. Ở trên iphone. Download và chạy file
+
 <b>Thông tin phiên bản</b>
 
 - v1.0
