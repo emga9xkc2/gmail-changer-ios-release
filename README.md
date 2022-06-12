@@ -26,6 +26,14 @@
 3. Download xong giải nén và chạy file setup.bat trong thư mục setup
 4. Quay lại tìm và chạy file Main (Main.lnk) lên là ok
 5. Sau khi mở lên nếu thấy thông báo Thay port trong file data/hconfig.ini thì mở file hconfig.ini lên, sửa dòng port = -1 thành port = xxx, rồi lưu lại. Ví dụ port = 789
+6. Sau khi cài xong, mở chrome vào http://localhost:789/ đăng nhập tài khoản mật khẩu là admin admin. Sau đó vào quản lý tài khoản để đổi mật khẩu thành mật khẩu mong muốn
+</details>
+
+<details>
+  <summary>CÀI ĐẶT TOUCHSPRITE</summary>
+
+1. Mở cydia, chọn Sources, chọn Edit, chọn Add, xóa hết url đi nhập dòng này vào rồi bấm Add Source: http://apt.touchsprite.com
+2. Hoặc làm theo video bên dưới <video src='setup/images/caidatts.mp4' width=180>
 </details>
 
 <details>
