@@ -25,5 +25,6 @@
 <b>Thông tin phiên bản</b>
 
 - v1.0
-  Hỗ trợ change ip bằng 3g, tinsoft, vypr
-  Chức năng: đổi mật khẩu, đổi email khôi phục, tạo kênh youtube, đăng xuất thiết bị
+
+  Hỗ trợ change ip bằng 3g, tinsoft, vypr<br>
+  Chức năng: đổi mật khẩu, đổi email khôi phục, tạo kênh youtube, đăng xuất thiết bị<br>
