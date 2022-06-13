@@ -53,6 +53,22 @@ Như trong video có file chi_sim.traineddata. Tải hết sạch hoặc bỏ l�
 
 </details>
 
+<details>
+  <summary>CÀI ĐẶT Ở TOOL</summary>
+
+1. TÊN THIẾT BỊ. thích nhập gì thì nhập
+2. IPSERVER:PORT. nhập
+
+- IPSERVER là ip của vps, ở vps mở chrome vào http://ipv4.icanhazip.com/ để lấy ip vps
+- PORT là cái xxx đã cài ở phần CÀI ĐẶT WEB MAIL
+- Mẫu: 42.211.1.8:789
+
+3. API KEY SERVER. vào WEB MAIL đăng nhập tài khoản mật khẩu. => vào quản lý tài khoản => copy api key trong quản lý tài khoản điền vào API KEY SERVER
+4. API KEY PROXY. nếu dùng tinsoft thì mua api rồi nhập vào đây, không thì dùng bỏ qua ô này
+5. Các phần còn lại tùy chọn
+
+</details>
+
 <b>Thông tin phiên bản</b>
 
 - v1.0
