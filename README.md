@@ -41,6 +41,7 @@
   <summary>CẤU HÌNH TOUCHSPRITE</summary>
 
 Bật icon chạy nhanh và tải thư viện cần thiết. làm theo video: https://www.youtube.com/watch?v=TKJLksfG7L8
+Như trong video có file chi_sim.traineddata. Tải hết sạch hoặc bỏ lại file này k tải cũng được
 
 </details>
 
