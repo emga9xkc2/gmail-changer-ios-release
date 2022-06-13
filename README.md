@@ -38,6 +38,13 @@
 </details>
 
 <details>
+  <summary>CẤU HÌNH TOUCHSPRITE</summary>
+
+1. Bật icon chạy nhanh và tải thư viện cần thiết. làm theo video: https://www.youtube.com/watch?v=TKJLksfG7L8
+
+</details>
+
+<details>
   <summary>CÀI ĐẶT TOOL</summary>
 
 1. Ở trên iphone. Download file: https://github.com/emga9xkc2/gmail-changer-ios-release/raw/main/gmail_changer.tsp
