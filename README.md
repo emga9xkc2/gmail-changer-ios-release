@@ -69,6 +69,14 @@ Như trong video có file chi_sim.traineddata. Tải hết sạch hoặc bỏ l�
 
 </details>
 
+<details>
+  <summary>CẬP NHẬT PHIÊN BẢN MỚI</summary>
+
+Nếu thấy dòng chữ đỏ như ảnh dưới. Bấm vào mũi tên như ảnh bên dưới để cập nhật bản mới nhất
+<img src="setup/images/2.png"/>
+
+</details>
+
 <b>Thông tin phiên bản</b>
 
 - v1.0
