@@ -48,8 +48,8 @@ Như trong video có file chi_sim.traineddata. Tải hết sạch hoặc bỏ l�
 <details>
   <summary>CÀI ĐẶT TOOL</summary>
 
-1. Ở trên iphone. Download file: https://github.com/emga9xkc2/gmail-changer-ios-release/raw/main/gmail_changer.tsp
-2. Sau đó copy file vừa tải về vào thư mục: /private/var/mobile/Media/TouchSprite/lua rồi chạy file trên
+1. Download file: https://github.com/emga9xkc2/gmail-changer-ios-release/raw/main/gmail_changer.tsp
+2. Sau đó dùng 3utool copy file vừa tải về vào thư mục: /private/var/mobile/Media/TouchSprite/lua trên iphone rồi chạy file trên
 
 </details>
 
@@ -79,7 +79,5 @@ Như trong video có file chi_sim.traineddata. Tải hết sạch hoặc bỏ l�
 
 <b>Thông tin phiên bản</b>
 
-- v1.0
-
-  Hỗ trợ change ip bằng 3g, tinsoft, vypr<br>
-  Chức năng: đổi mật khẩu, đổi email khôi phục, tạo kênh youtube, đăng xuất thiết bị<br>
+Hỗ trợ change ip bằng 3g, tinsoft, vypr<br>
+Chức năng: đổi mật khẩu, đổi email khôi phục, tạo kênh youtube, đăng xuất thiết bị<br>
