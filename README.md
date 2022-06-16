@@ -26,7 +26,10 @@
 3. Download xong giải nén và chạy file setup.bat trong thư mục setup
 4. Quay lại tìm và chạy file Main (Main.lnk) lên là ok
 5. Sau khi mở lên nếu thấy thông báo Thay port trong file data/hconfig.ini thì mở file hconfig.ini lên, sửa dòng port = -1 thành port = xxx, rồi lưu lại. Ví dụ port = 789
-6. Sau khi cài xong, mở chrome vào http://localhost:789/ đăng nhập tài khoản mật khẩu là admin admin. Sau đó vào quản lý tài khoản để đổi mật khẩu thành mật khẩu mong muốn
+6. Mở chrome vào http://ipv4.icanhazip.com/ để lấy ip vps. Ví dụ ip vps lấy được là 42.211.1.8
+7. Mở tab mới truy cập 42.211.1.8:789 đăng nhập tài khoản mật khẩu là admin admin. Sau đó vào quản lý tài khoản copy apikey và đổi mật khẩu thành mật khẩu mong muốn.
+8. Copy 42.211.1.8:789 và apikey ra đâu đó để lát nữa xài
+LƯU Ý: NẾU BƯỚC 7 KHÔNG TRUY CẬP ĐƯỢC. Hãy tắt tường lửa ở vps rồi thử lại. Nếu vẫn không được hãy mở port cho vps. Google để tìm cách mở, hoặc liên hệ người bán để bảo họ mở cho
 </details>
 
 <details>
@@ -59,11 +62,10 @@ Như trong video có file chi_sim.traineddata. Tải hết sạch hoặc bỏ l�
 1. TÊN THIẾT BỊ. thích nhập gì thì nhập
 2. IPSERVER:PORT. nhập
 
-- IPSERVER là ip của vps, ở vps mở chrome vào http://ipv4.icanhazip.com/ để lấy ip vps
-- PORT là cái xxx đã cài ở phần CÀI ĐẶT WEB MAIL
+- Xem lại ở mục 5,6,7,8 CÀI ĐẶT WEB MAIL
 - Mẫu: 42.211.1.8:789
 
-3. API KEY SERVER. vào WEB MAIL đăng nhập tài khoản mật khẩu. => vào quản lý tài khoản => copy api key trong quản lý tài khoản điền vào API KEY SERVER
+3. API KEY SERVER. Vào quản lý tài khoản để lấy. Xem lại ở mục 7 CÀI ĐẶT WEB MAIL
 4. API KEY PROXY. nếu dùng tinsoft thì mua api rồi nhập vào đây, không thì dùng bỏ qua ô này
 5. Các phần còn lại tùy chọn
 
