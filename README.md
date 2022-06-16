@@ -29,7 +29,9 @@
 6. Mở chrome vào http://ipv4.icanhazip.com/ để lấy ip vps. Ví dụ ip vps lấy được là 42.211.1.8
 7. Mở tab mới truy cập 42.211.1.8:789 đăng nhập tài khoản mật khẩu là admin admin. Sau đó vào quản lý tài khoản copy apikey và đổi mật khẩu thành mật khẩu mong muốn.
 8. Copy 42.211.1.8:789 và apikey ra đâu đó để lát nữa xài
+
 LƯU Ý: NẾU BƯỚC 7 KHÔNG TRUY CẬP ĐƯỢC. Hãy tắt tường lửa ở vps rồi thử lại. Nếu vẫn không được hãy mở port cho vps. Google để tìm cách mở, hoặc liên hệ người bán để bảo họ mở cho
+
 </details>
 
 <details>
