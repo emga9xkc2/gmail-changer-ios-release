@@ -34,6 +34,13 @@
 </details>
 
 <details>
+  <summary>HƯỚNG DẪN JB IPHONE</summary>
+
+1. Tham khảo video: https://www.youtube.com/watch?v=MQlxhBe9hP0
+
+</details>
+
+<details>
   <summary>CÀI ĐẶT TOUCHSPRITE</summary>
 
 1. Mở cydia, chọn Sources, chọn Edit, chọn Add, xóa hết url đi nhập dòng này vào rồi bấm Add Source: http://apt.touchsprite.com
