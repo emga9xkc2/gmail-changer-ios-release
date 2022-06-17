@@ -18,7 +18,7 @@
 <details>
   <summary>CÀI ĐẶT WEB MAIL</summary>
 
-## Nếu thấy khó phần này quá, có thể liên hệ hỗ trợ để mua web sẵn giá 6$ / tháng
+## Có thể liên hệ hỗ trợ để mua web sẵn giá 6$ / tháng
 
 1. Chuẩn bị 1 vps window hoặc máy tính nhà đã mở port modem (win8 hoặc win10 hoặc winserver2012). Download và cài đặt python 3.9.9. Nhớ tích như hình bên dưới
    Link download: https://www.python.org/ftp/python/3.9.9/python-3.9.9-amd64.exe
