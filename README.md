@@ -1,7 +1,6 @@
 <b>Chuẩn bị</b>
 
 - Điện thoại 6s ios 14
-- 1 vps window hoặc máy tính nhà đã mở port modem (win8 hoặc win10 hoặc winserver2012)
 - Giá tool: 500k / tháng / 1 thiết bị. Liên hệ hỗ trợ: https://t.me/thoconlonton
 
 <b>Hướng dẫn sử dụng</b>
@@ -18,8 +17,9 @@
 
 <details>
   <summary>CÀI ĐẶT WEB MAIL</summary>
-
-1. Ở vps download và cài đặt python 3.9.9. Nhớ tích như hình bên dưới
+0. Nếu thấy khó phần này quá, có thể liên hệ hỗ trợ để mua web sẵn giá 6$ / tháng
+1.1. Chuẩn bị 1 vps window hoặc máy tính nhà đã mở port modem (win8 hoặc win10 hoặc winserver2012)
+1.2. Ở vps download và cài đặt python 3.9.9. Nhớ tích như hình bên dưới
    Link download: https://www.python.org/ftp/python/3.9.9/python-3.9.9-amd64.exe
    <img src="setup/images/1.png"/>
 2. Ở vps download và cài đặt web mail ở đây: https://github.com/emga9xkc2/web-mail-release/archive/refs/heads/main.zip
