@@ -1,3 +1,5 @@
+<img src="setup/images/gmail changer ios.png"/>
+
 <b>Chuẩn bị</b>
 
 - Điện thoại 6s ios 14
@@ -50,18 +52,18 @@
 </details>
 
 <details>
-  <summary>CẤU HÌNH TOUCHSPRITE</summary>
-
-Bật icon chạy nhanh và tải thư viện cần thiết. làm theo video: https://www.youtube.com/watch?v=TKJLksfG7L8
-Như trong video có file chi_sim.traineddata. Tải hết sạch hoặc bỏ lại file này k tải cũng được
-
-</details>
-
-<details>
   <summary>CÀI ĐẶT TOOL</summary>
 
 1. Download file: https://github.com/emga9xkc2/gmail-changer-ios-release/raw/main/gmail_changer.tsp
 2. Sau đó dùng 3utool copy file vừa tải về vào thư mục: /private/var/mobile/Media/TouchSprite/lua trên iphone rồi chạy file trên
+
+</details>
+
+<details>
+  <summary>CẤU HÌNH TOUCHSPRITE</summary>
+
+Bật icon chạy nhanh và tải thư viện cần thiết. làm theo video: https://www.youtube.com/watch?v=TKJLksfG7L8
+Như trong video có file chi_sim.traineddata. Tải hết sạch hoặc bỏ lại file này k tải cũng được
 
 </details>
 
@@ -90,5 +92,5 @@ Như trong video có file chi_sim.traineddata. Tải hết sạch hoặc bỏ l�
 
 <b>Thông tin phiên bản</b>
 
-Hỗ trợ change ip bằng 3g, tinsoft, vypr<br>
-Chức năng: đổi mật khẩu, đổi email khôi phục, tạo kênh youtube, đăng xuất thiết bị<br>
+Hỗ trợ change ip bằng 3g, tinsoft, vypr, express<br>
+Chức năng: đổi mật khẩu, đổi email khôi phục, tạo kênh youtube, đăng xuất thiết bị, check email gốc, xóa số điện thoại, kiểm tra năm tạo mail<br>
